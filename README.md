@@ -1,9 +1,9 @@
 # Image-Recognitioin-as-Service
 
 - Auto scaling cloud-based web service for Image Recognition using AWS infrastructure.
-- Utilized EC2 for deploying machine learning models
+- Utilized EC2 for deploying Machine Learning models using PyTorch.
 - S3 for object storage
-- SQS to handle 1,000 concurrent requests via a Flask framework.
+- SQS message queues to handle 1,000 concurrent requests via a Flask framework.
 
 # Uploads
 
